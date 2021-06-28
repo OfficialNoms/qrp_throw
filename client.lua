@@ -13,7 +13,7 @@ Citizen.CreateThread(function ()
 		options = {
 			{
 				event = "qrp_throw:pickup",
-				icon = "fa-solid fa-traffic-cone",
+				icon = "fas fa-hand-paper",
 				label = "Pick up to Throw",
 			},
 		},
